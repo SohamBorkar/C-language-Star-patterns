@@ -27,14 +27,12 @@ int main()
     
     for(i=1;i<=7;i++)
     {
-        for(j=i;j<7;j++)
-        {
+        for(j=i;j<7;j++) 
             printf(" ");
-        }
+        
         for(k=1;k<(2*i);k++)
-        {
-                printf("*");
-        }
+            printf("*");
+        
         printf("\n");
     }
 }
