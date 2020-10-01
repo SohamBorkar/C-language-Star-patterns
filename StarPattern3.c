@@ -3,6 +3,7 @@
 //  Date :- 20th October 2019
 //  Language :- C Language
 //  About :- Star Pattern 3
+//  and also the helpful.
 //  *********************************************************************
 
 
@@ -29,6 +30,7 @@
 
 int main()
 {
+     printf("This will print star pattern \n");
     int i, j, k ;
     for(i=1; i<=7; i++)
     {
