@@ -21,6 +21,7 @@
 #include<stdio.h>
 
 int main() {
+    printf("This will print triangular star pattern. \n");
     int n = 7;
     int k = 2*n - 2;
     int i, j;
